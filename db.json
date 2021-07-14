@@ -287,20 +287,9 @@
 			"sp_compound_identifier": "900887",
 			"originating_company": "Merck &amp; Co., Inc.",
 			},
-			{
-			"compound_identifier": "0906A",
-			"lab_sample_identifier": "L-000652931 (+) L-000751534",
-			"generic_name": "finasteride (+) tamsulosin hydrochloride",
-			"mk_number": "MK-0906A",
-			"current_name": "finasteride (+) tamsulosin hydrochloride",
-			"target_class": "multiple targets",
-			"product_type": "combination chemical",
-			"sp_compound_identifier": "900426",
-			"originating_company": "Merck &amp; Co., Inc.",
-            }
 			],
 			"paging": {
-			"total": 27	
+			"total": 26	
 			}
 			
 }
